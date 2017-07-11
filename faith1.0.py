@@ -18,3 +18,4 @@ def readrand(filename):
             fp.seek(0)
         return fp.readline()
 print(readrand('fort1.txt'))
+input()
